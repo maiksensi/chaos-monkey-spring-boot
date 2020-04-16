@@ -82,7 +82,6 @@ public class ChaosMonkeyConfiguration {
     this.chaosMonkeyProperties = chaosMonkeyProperties;
     this.watcherProperties = watcherProperties;
     this.assaultProperties = assaultProperties;
-
     try {
       String chaosLogo =
           StreamUtils.copyToString(
